@@ -1,7 +1,7 @@
 # 💫 About Me:
  I'm a  junior front-end developer with a passion for creating engaging and user-friendly web experiences. As you navigate through my GitHub repository, you'll find a collection of my projects, experiments, and contributions that I'm doing when I can.
 
- I'm open to Job opportunities where I can contribute, learn and grow. If you have a good opportunity that matches my skills and experience then contact me.
+ I am actively seeking job opportunities where I can contribute, learn, and grow. If you have a promising opportunity that aligns with my skills and experience, I would love to hear from you. Please don't hesitate to reach out.
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jakub-mądry-28b694267/) 
 
