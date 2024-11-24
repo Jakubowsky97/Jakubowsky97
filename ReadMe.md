@@ -1,5 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=4C8AF7&width=435&lines=Hi+there!;I'm+Jakubowsky97!)](https://git.io/typing-svg) ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Jakubowsky97.Jakubowsky97" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=4C8AF7&width=435&lines=Hi+there!;I'm+Jakubowsky97!"/>
+</h1>
 
 # 💫 About Me:
  I'm a  junior front-end developer with a passion for creating engaging and user-friendly web experiences. As you navigate through my GitHub repository, you'll find a collection of my projects, experiments, and contributions that I'm doing when I can.
