@@ -4,12 +4,32 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jakubowsky97!;"/>
 </h1>
 
-# 💫 About Me:
- I'm a  junior front-end developer with a passion for creating engaging and user-friendly web experiences. As you navigate through my GitHub repository, you'll find a collection of my projects, experiments, and contributions that I'm doing when I can.
+<h3 align="center">About me:</h3>
+<br/>
 
- I'm actively seeking job opportunities where I can contribute, learn, and grow. If you have a promising opportunity that aligns with my skills and experience, I would love to hear from you. Please don't hesitate to reach out.
+<div align="center">
+     🔭 I’m currently working on a **Cooking app with AI assistant**
+        
+     🌱 I’m currently learning **React Native**
+</div>
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jakub-mądry-28b694267/) 
+<div align="center">
+    <a href="mailto:Jakubowskyy97@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>  
+    </a>
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nextjs,java,typescript,firebase,postgres,mysql" /><br>
+</div>
+
+<br/>
+<hr/>
 
 
 # 💻 Tech Stack:
