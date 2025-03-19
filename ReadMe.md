@@ -9,9 +9,9 @@
 
 <div align="center">
     
-🔭 I’m currently working on a **Cooking app with AI assistant**
+🔭 I’m currently working on a **Tripmate AI**
      
-🌱 I’m currently learning **React Native**
+🌱 I’m currently learning **Spring Boot**
 </div>
 
 <div align="center">
