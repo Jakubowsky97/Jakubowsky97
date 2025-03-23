@@ -11,7 +11,7 @@
     
 🔭 I’m currently working on a **Tripmate AI**
      
-🌱 I’m currently learning **Spring Boot**
+🌱 I’m currently learning **Spring Boot, Redux and Nest.js**
 </div>
 
 <div align="center">
